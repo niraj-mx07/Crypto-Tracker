@@ -1,16 +1,59 @@
-# React + Vite
+# 🚀 Crypto Tracker — Real-Time Cryptocurrency Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+**Crypto Tracker** is a web-based application designed to provide real-time cryptocurrency prices, market data, and insights.  
+The platform simplifies tracking crypto trends, analyzing market movements, and exploring detailed statistics for individual coins.
 
-Currently, two official plugins are available:
+This project demonstrates practical usage of **React**, **API integration**, and **responsive UI design** to build a modern cryptocurrency dashboard.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo**: https://crypto-go-tracker.netlify.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
+- 🔍 **Search & Filter** – Search cryptocurrencies by name or symbol and sort by rank, price, market cap, or 24h change
+- 📊 **Real-Time Data** – Live data fetched from the CoinGecko API (auto-refresh every 30 seconds)
+- 📈 **Detailed Coin Insights** – Market cap, volume, supply, and price changes
+- 📉 **Interactive Charts** – 7-day price trend visualization using line charts
+- 🌐 **Responsive Design** – Optimized for desktop, tablet, and mobile
+- 🔄 **View Modes** – Toggle between grid and list layouts
+- ⚠️ **Error Handling** – Graceful handling of loading states and API errors
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technology Stack
+
+### 🎨 Frontend
+- **React** – Component-based UI
+- **Recharts** – Interactive charts and data visualization
+- **CSS** – Custom responsive styling
+
+### 🌐 API
+- **CoinGecko API** – Real-time cryptocurrency market data
+
+### ⚡ Build Tool
+- **Vite** – Fast development server and optimized production builds
+
+---
+
+## 🚀 Deployment
+
+This project is **deployed on Netlify**.
+
+- **Platform**: Netlify
+- **Build Command**: `npm run build`
+- **Publish Directory**: `dist`
+- **Live URL**: https://crypto-go-tracker.netlify.app/
+
+Netlify provides continuous deployment, fast global CDN, and automatic HTTPS.
+
+---
+
+## 🧠 System Highlights
+- 🔄 Automatic data refresh without page reloads
+- 🧩 Modular and reusable React components
+- 📱 Mobile-first responsive layout
+- ⚙️ Scalable architecture for future feature expansion
+
+---
+
