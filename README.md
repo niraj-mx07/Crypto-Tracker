@@ -54,6 +54,3 @@ Netlify provides continuous deployment, fast global CDN, and automatic HTTPS.
 - 🧩 Modular and reusable React components
 - 📱 Mobile-first responsive layout
 - ⚙️ Scalable architecture for future feature expansion
-
----
-
