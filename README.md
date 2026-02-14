@@ -19,7 +19,7 @@ This project demonstrates practical usage of **React**, **API integration**, and
 - 🔄 **View Modes** – Toggle between grid and list layouts
 - ⚠️ **Error Handling** – Graceful handling of loading states and API errors
 
----
+----
 
 ## 🛠️ Technology Stack
 
