@@ -47,7 +47,7 @@ This project is **deployed on Netlify**.
 
 Netlify provides continuous deployment, fast global CDN, and automatic HTTPS.
 
-----
+-----
 
 ## 🧠 System Highlights
 - 🔄 Automatic data refresh without page reloads
