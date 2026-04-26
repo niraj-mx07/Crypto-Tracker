@@ -8,7 +8,7 @@ This project demonstrates practical usage of **React**, **API integration**, and
 
 🔗 **Live Demo**: https://crypto-go-tracker.netlify.app/
 
-----
+-----
 
 ## ✨ Key Features
 - 🔍 **Search & Filter** – Search cryptocurrencies by name or symbol and sort by rank, price, market cap, or 24h change
