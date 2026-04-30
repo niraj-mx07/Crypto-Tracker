@@ -1,4 +1,4 @@
-# 🚀 Crypto Tracker — Real-Time Cryptocurrency Dashboard
+ # 🚀 Crypto Tracker — Real-Time Cryptocurrency Dashboard
 
 ## 📌 Overview
 **Crypto Tracker** is a web-based application designed to provide real-time cryptocurrency prices, market data, and insights.  
@@ -34,7 +34,7 @@ This project demonstrates practical usage of **React**, **API integration**, and
 ### ⚡ Build Tool
 - **Vite** – Fast development server and optimized production builds
 
-----
+-----
 
 ## 🚀 Deployment
 
