@@ -34,7 +34,7 @@ This project demonstrates practical usage of **React**, **API integration**, and
 ### ⚡ Build Tool
 - **Vite** – Fast development server and optimized production builds
 
------
+------
 
 ## 🚀 Deployment
 
